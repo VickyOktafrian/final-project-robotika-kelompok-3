@@ -117,7 +117,11 @@ Proyek ini menggunakan lisensi MIT. Lihat file `LICENSE` untuk detail lengkap.
 
 ## 👨‍💻 Author
 
-**VickyOktafrian**
+**Irsyad Fadhil Makarim**
+**Mikhail Shams Afzal Karim** 
+**Albi Akhsanul Hakim**
+**Kalfin Syah Kilau Mayya**
+**Muhamad Vicky Oktafrian**
 
 ## 🙏 Acknowledgments
 
